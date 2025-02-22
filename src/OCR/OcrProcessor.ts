@@ -5,7 +5,7 @@ class OCRProcessor {
         const { data: { text } } = await Tesseract.recognize(imagePath, 'eng');
         return text;
     }
-
+#extract string 
     async extractTextFromPDF(pdfPath: string): Promise<string> {
         // Implement PDF text extraction logic here
         // You might use a library like pdf-lib or pdf-parse
