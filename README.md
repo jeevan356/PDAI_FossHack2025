@@ -80,16 +80,11 @@ The **FileUpload** component is located in `src/reusable_components/FileUpload.t
 ### Loader
 The **Loader** component is located in `src/reusable_components/Loader.tsx`. It displays a loading spinner with an overlay.
 
-### One of Best Open Source Application
+### One of Best Open Source Application for the following problem statement:
 Custom bank statement services streamline the process of tracking income and expenses by categorizing transactions according to tax codes. This makes tax filing more efficient, helps identify deductible expenses, and ensures compliance with regulations—reducing the risk of errors or audits. These services are especially beneficial for freelancers and gig workers, providing a clear, organized record of irregular income and variable expenses.
 
 ## services
 Vercel Webhost
-
-## Learn More
-You can learn more in the [Create React App documentation](https://create-react-app.dev/).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Applications of this project:
 ### 📌 **Enterprise & Business**
