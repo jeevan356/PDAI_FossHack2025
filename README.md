@@ -91,7 +91,7 @@ You can learn more in the [Create React App documentation](https://create-react-
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-##Applications of this project:
+### Applications of this project:
 ### 📌 **Enterprise & Business**
 - **Internal Document Search Engine** - Find policies, reports, and contracts.
 - **Contract Review** - Extract legal clauses & obligations.
