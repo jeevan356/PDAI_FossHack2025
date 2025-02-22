@@ -9,7 +9,7 @@ class TextCleaner {
     }
 
     /**
-     * Removes special characters from text, leaving only alphanumeric characters and spaces.
+     * Remove special characters from text, leaving only alphanumeric characters and spaces.
      * @param text - The text to sanitize.
      * @returns The sanitized text.
      */
