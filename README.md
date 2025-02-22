@@ -75,9 +75,6 @@ The **Loader** component is located in `src/reusable_components/Loader.tsx`. It 
 
 ## Services
 
-### azureServices
-The **azureServices** module is located in `src/services/azureServices.ts`. It contains functions to interact with Azure services for reading and summarizing documents.
-
 ## Learn More
 You can learn more in the [Create React App documentation](https://create-react-app.dev/).
 
