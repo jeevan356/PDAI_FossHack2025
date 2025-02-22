@@ -84,7 +84,7 @@ The **Loader** component is located in `src/reusable_components/Loader.tsx`. It 
 Custom bank statement services streamline the process of tracking income and expenses by categorizing transactions according to tax codes. This makes tax filing more efficient, helps identify deductible expenses, and ensures compliance with regulations—reducing the risk of errors or audits. These services are especially beneficial for freelancers and gig workers, providing a clear, organized record of irregular income and variable expenses.
 
 ## services
-Vercel Webhost
+Vercel Webhost service
 
 ### Applications of this project:
 ### 📌 **Enterprise & Business**
