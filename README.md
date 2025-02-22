@@ -27,10 +27,17 @@ document-assistant/
 │   ├── reusable_components/
 │   │   ├── FileUpload.tsx
 │   │   ├── Loader.css
-│   │   └── Loader.tsx
-│   └── services/
-│       └── azureServices.ts
-└── tsconfig.json
+│   │   ├── Loader.tsx
+│   ├── ocr/
+│   │   ├── OCRProcessor.ts
+│   ├── summarizer/
+│   │   ├── TextSummarizer.ts
+│   ├── services/
+│   │   ├── LocalStorageService.ts
+│   └── utils/
+│       ├── FileParser.ts
+│       ├── TextCleaner.ts
+└── tsconfig.json
 ```
 
 ## Available Scripts
