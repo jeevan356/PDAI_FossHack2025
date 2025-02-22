@@ -134,5 +134,5 @@ const FileUpload: React.FC<FileUploadProps> = ({
         </Stack>
     );
 };
-
+#export
 export default FileUpload;
