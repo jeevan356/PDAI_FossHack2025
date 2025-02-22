@@ -12,5 +12,5 @@ class OCRProcessor {
         throw new Error('PDF text extraction not implemented yet.');
     }
 }
-
+#export
 export default new OCRProcessor();
