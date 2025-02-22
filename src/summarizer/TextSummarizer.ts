@@ -4,7 +4,7 @@ class TextSummarizer {
             return text;
         }
 
-        // Simple summarization logic: truncate to the first `maxLength` characters
+        // Simple summarization logic, truncate to the first `maxLength` characters
         return text.substring(0, maxLength) + '...';
     }
 }
