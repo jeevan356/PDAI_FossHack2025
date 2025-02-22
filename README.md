@@ -91,3 +91,29 @@ You can learn more in the [Create React App documentation](https://create-react-
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+##Applications of this project:
+### 📌 **Enterprise & Business**
+- **Internal Document Search Engine** - Find policies, reports, and contracts.
+- **Contract Review** - Extract legal clauses & obligations.
+- **Financial Document Processing** - Analyze invoices and bank statements.
+
+### 📌 **Compliance & Privacy**
+- **GDPR/HIPAA Compliance Scanner** - Detect & redact sensitive data.
+- **FOIA Document Processing** - Summarize government records.
+
+### 📌 **Legal & Research Assistance**
+- **Legal Research Assistant** - Extracts case laws & legal precedents.
+- **Scientific Paper Analyzer** - Summarizes research papers & patents.
+
+### 📌 **Finance & Tax Assistance**
+- **Bank Statement Analyzer** - Categorizes transactions & spending.
+- **Tax Document Summarization** - Extracts key figures from tax forms.
+
+### 📌 **Healthcare & Medical Applications**
+- **Medical Record Summarization** - Extracts diagnoses, treatments, medications.
+- **Clinical Trial Data Extraction** - Analyzes trial results & drug information.
+
+### 📌 **Education & Learning**
+- **Textbook Summarization** - Generates quick revision notes.
+- **Exam Preparation Tool** - Creates flashcards & quizzes from study materials.
+
