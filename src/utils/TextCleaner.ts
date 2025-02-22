@@ -17,5 +17,5 @@ class TextCleaner {
         return text.replace(/[^a-zA-Z0-9\s]/g, '');
     }
 }
-
+#export 
 export default new TextCleaner();
