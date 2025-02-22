@@ -6,8 +6,8 @@ import {
     IStackStyles,
     IStackTokens,
 } from "@fluentui/react";
-
-interface FileUploadProps {
+#connect 
+    interface FileUploadProps {
     label?: string; // Optional label for the file upload
     onFileUpload?: (file: File) => void;
     errorMessage?: string; // Optional error message for the file upload
