@@ -1,12 +1,10 @@
-# PDAI_FossHack2025
 # Document Assistant
 
 This project is a React-based web application called **Document Assistant**. It allows users to upload documents and search within them.
 
 ## Architecture Diagram
 
-![Architecture Diagram](https://github.com/jeevan356/PDAI_FossHack2025/blob/main/architecture_diagram.jpg?raw=true)
-
+![Architecture Diagram](https://github.com/jeevan356/PDAI_FossHack2025/blob/main/architecture.png?raw=true)
 
 ## Project Structure
 ```
@@ -84,5 +82,4 @@ The **azureServices** module is located in `src/services/azureServices.ts`. It c
 You can learn more in the [Create React App documentation](https://create-react-app.dev/).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
 
