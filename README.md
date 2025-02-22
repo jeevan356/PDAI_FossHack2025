@@ -27,10 +27,17 @@ document-assistant/
 │   ├── reusable_components/
 │   │   ├── FileUpload.tsx
 │   │   ├── Loader.css
-│   │   └── Loader.tsx
-│   └── services/
-│       └── azureServices.ts
-└── tsconfig.json
+│   │   ├── Loader.tsx
+│   ├── ocr/
+│   │   ├── OCRProcessor.ts
+│   ├── summarizer/
+│   │   ├── TextSummarizer.ts
+│   ├── services/
+│   │   ├── LocalStorageService.ts
+│   └── utils/
+│       ├── FileParser.ts
+│       ├── TextCleaner.ts
+└── tsconfig.json
 ```
 
 ## Available Scripts
@@ -73,7 +80,8 @@ The **FileUpload** component is located in `src/reusable_components/FileUpload.t
 ### Loader
 The **Loader** component is located in `src/reusable_components/Loader.tsx`. It displays a loading spinner with an overlay.
 
-## Services
+## services
+Vercel Webhost
 
 ## Learn More
 You can learn more in the [Create React App documentation](https://create-react-app.dev/).
