@@ -5,7 +5,8 @@ This project is a React-based web application called **Document Assistant**. It 
 
 ## Architecture Diagram
 
-https://github.com/jeevan356/PDAI_FossHack2025/blob/main/Foss_read_pic.jpg?raw=true
+![Architecture Diagram](https://github.com/jeevan356/PDAI_FossHack2025/blob/main/architecture_diagram.jpg?raw=true)
+
 
 ## Project Structure
 ```
