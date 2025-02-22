@@ -9,4 +9,4 @@ class TextSummarizer {
     }
 }
 
-export default new TextSummarizer();
+export default new TextSummarizer(); #summarization
