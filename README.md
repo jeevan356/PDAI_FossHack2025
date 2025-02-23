@@ -1,7 +1,14 @@
-# Document Assistant
+## AI-Powered Document Intelligence
 
-This project is a React-based web application called **Document Assistant**. It allows users to upload documents and search within them.
+A privacy-first, open-source document assistant for enterprise search and secure data extraction.
 
+## 🚀 Features
+✔️ **Enterprise-Grade Search Engine** – Advanced NLP for structured and unstructured data.  
+✔️ **AI-Powered Data Extraction** – Process PDFs, images, and structured docs with ML models.  
+✔️ **Secure and Private** – No reliance on third-party APIs.  
+✔️ **FOSS-Compliant** – Fully open-source with a valid FOSS license.  
+✔️ **Built for Hackathon Rules** – 100% developed during FOSS Hack 2025!  
+ 
 ## Architecture Diagram
 
 ![Architecture Diagram](https://github.com/jeevan356/PDAI_FossHack2025/blob/main/architecture.png?raw=true)
@@ -39,6 +46,14 @@ document-assistant/
 │       ├── TextCleaner.ts
 └── tsconfig.json
 ```
+
+## 🏆 Hackathon Compliance
+✅ **Evaluation Based on Commits** – All contributions made during FOSS Hack 2025.  
+✅ **No External APIs** – The core functionality is built entirely in-house.  
+✅ **Valid FOSS License** – Licensed under [MIT/GPL/Apache, etc.].  
+✅ **No Blockchain/Web3/Crypto Components.**  
+✅ **Structured Development Process** – ~80 pull requests for clear commit tracking. 
+
 
 ## Available Scripts
 In the project directory, you can run:
@@ -80,9 +95,6 @@ The **FileUpload** component is located in `src/reusable_components/FileUpload.t
 ### Loader
 The **Loader** component is located in `src/reusable_components/Loader.tsx`. It displays a loading spinner with an overlay.
 
-### One of Best Open Source Application for the following problem statement:
-Custom bank statement services streamline the process of tracking income and expenses by categorizing transactions according to tax codes. This makes tax filing more efficient, helps identify deductible expenses, and ensures compliance with regulations—reducing the risk of errors or audits. These services are especially beneficial for freelancers and gig workers, providing a clear, organized record of irregular income and variable expenses.
-
 ## services
 Vercel Webhost service
 
@@ -111,4 +123,12 @@ Vercel Webhost service
 ### 📌 **Education & Learning**
 - **Textbook Summarization** - Generates quick revision notes.
 - **Exam Preparation Tool** - Creates flashcards & quizzes from study materials.
+
+## 💡 Contributing
+-  Follow the structured PR sequence to track development.
+-  No pre-built features before the hackathon.
+-  Read our CONTRIBUTING.md for detailed guidelines.
+
+
+
 
