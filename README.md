@@ -124,11 +124,6 @@ Vercel Webhost service
 - **Textbook Summarization** - Generates quick revision notes.
 - **Exam Preparation Tool** - Creates flashcards & quizzes from study materials.
 
-## 💡 Contributing
--  Follow the structured PR sequence to track development.
--  No pre-built features before the hackathon.
--  Read our CONTRIBUTING.md for detailed guidelines.
-
 
 
 
